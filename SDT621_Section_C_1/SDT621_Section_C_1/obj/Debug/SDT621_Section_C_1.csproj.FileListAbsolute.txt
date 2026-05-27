@@ -1,0 +1,10 @@
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\bin\Debug\SDT621_Section_C_1.exe.config
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\bin\Debug\SDT621_Section_C_1.exe
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\bin\Debug\SDT621_Section_C_1.pdb
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.Form1.resources
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.Properties.Resources.resources
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.exe
+C:\Users\phili\source\repos\SDT621_Section_C_1\SDT621_Section_C_1\obj\Debug\SDT621_Section_C_1.pdb
